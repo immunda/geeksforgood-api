@@ -1,0 +1,3 @@
+[submodule "katyusha"]
+	path = katyusha
+	url = git@github.com:immunda/katyusha.git
